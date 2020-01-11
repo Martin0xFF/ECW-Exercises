@@ -1,2 +1,2 @@
-# ECW-Exercises
-Exercises for the embedded portion of the ECW
+# ECW-Exercises-Solutions
+Solutions repo to embbeded portion of ECW
